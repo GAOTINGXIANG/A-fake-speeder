@@ -147,3 +147,6 @@ if __name__ == "__main__":
     win.send_photo_mail()   # 自动发送邮件
     win.show()
     sys.exit(app.exec_())
+
+
+#-河南理工大学-高廷翔-2026-
