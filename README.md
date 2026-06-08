@@ -1,2 +1,14 @@
-# A-fake-speeder
-pretend a speeder,actually take a photo to my QQ server
+功能概览如下
+点击连接服务器拍下照片,存储照片到D盘根目录下
+点击开始加速发送照片到指定QQ邮箱
+点击提交反馈发送留言框中的信息到指定邮箱
+点击关闭和最小化按键不会正常关闭程序反而会增加弹窗数量这是故意的,不是bug
+
+
+程序使用教程
+step1  修改源码
+根据自己的需要修改source_code中的
+
+
+
+
